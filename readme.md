@@ -39,11 +39,8 @@ To get started with the **Clinical Classification System Sn** solution repositor
  ![additional_image](clinical_classification_system_sn.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
