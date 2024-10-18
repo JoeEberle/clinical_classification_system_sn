@@ -4,20 +4,7 @@
 
 ## This solution extends and enhances the ICD-10-CM diagnosis standard to include disease classifications that can be used for registries and care outreach.
 
-    
-# Table of Contents
-
-- [Solution Overview](#Solution-Overview)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Notebook Features](#notebook-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-![Image image_filename](code.png)
+    ![Image image_filename](code.png)
 Welcome to the solution **Clinical Classification System Sn** - an example for your projects
 
 This solution extends and enhances the ICD-10-CM diagnosis standard to include disease classifications that can be used for registries and care outreach.
@@ -32,6 +19,15 @@ To get started with the **Clinical Classification System Sn** solution repositor
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Clinical Classification System Sn** 
